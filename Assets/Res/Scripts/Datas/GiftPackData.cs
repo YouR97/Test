@@ -9,6 +9,7 @@ namespace Test
     /// </summary>
     public class GiftPackData
     {
+        public string ID;
         /// <summary>
         /// 礼包名
         /// </summary>

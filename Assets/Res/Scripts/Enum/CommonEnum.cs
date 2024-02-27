@@ -8,14 +8,14 @@
         /// <summary>
         /// A货币
         /// </summary>
-        TypeA,
+        MoneyA,
         /// <summary>
         /// B货币
         /// </summary>
-        TypeB,
+        MoneyB,
         /// <summary>
         /// C货币
         /// </summary>
-        TypeC,
+        MoneyC,
     }
 }

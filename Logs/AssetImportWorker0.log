@@ -1248,3 +1248,51 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 600.675821 seconds.
+  path: Assets/Res/Shader
+  artifactKey: Guid(d8e7333a5712ae94899e7978ec1599dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Shader using Guid(d8e7333a5712ae94899e7978ec1599dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5756c81a1547f0ad713373923bfdd1') in 0.073482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.751856 seconds.
+  path: Assets/Res/Materials
+  artifactKey: Guid(c00e9ef178b4f5244b504a085143473b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Materials using Guid(c00e9ef178b4f5244b504a085143473b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b02d8be39719b2de1c7fa599d417cd') in 0.000615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.383236 seconds.
+  path: Assets/Res/Shaders
+  artifactKey: Guid(d8e7333a5712ae94899e7978ec1599dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Shaders using Guid(d8e7333a5712ae94899e7978ec1599dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8efee71a0bb96db05f956a10b2bac9') in 0.000629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 12.088339 seconds.
+  path: Assets/Res/Shaders/NewSurfaceShader.shader
+  artifactKey: Guid(0a9d78d1306d1cb40b8e522ea5f5e110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Shaders/NewSurfaceShader.shader using Guid(0a9d78d1306d1cb40b8e522ea5f5e110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b630ad1cfd0f35090788c9ad935377') in 0.008327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 70.209330 seconds.
+  path: Assets/Res/Shaders/NewUnlitShader.shader
+  artifactKey: Guid(ad6ac757f71c6084981d5b96d5cb3857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Shaders/NewUnlitShader.shader using Guid(ad6ac757f71c6084981d5b96d5cb3857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f0d6aaec93eadcf6e505c3dcbb454b') in 0.001742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 91.765316 seconds.
+  path: Assets/Res/Shaders/NewUnlitShader.shader
+  artifactKey: Guid(ad6ac757f71c6084981d5b96d5cb3857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Res/Shaders/NewUnlitShader.shader using Guid(ad6ac757f71c6084981d5b96d5cb3857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6dcbd4d161e4f2cbb55c5374547e52') in 0.002375 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

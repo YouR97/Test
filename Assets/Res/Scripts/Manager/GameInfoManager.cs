@@ -9,6 +9,8 @@ namespace Test
     {
         public static GameInfoManager Ins;
 
+        public GameObject GoStoreUI;
+
         /// <summary>
         /// 货币数量字典
         /// </summary>
@@ -37,6 +39,11 @@ namespace Test
                 Destroy(gameObject);
 
             Ins = this;
+        }
+
+        private void Start()
+        {
+            GoStoreUI.SetActive(true);
         }
 
         /// <summary>

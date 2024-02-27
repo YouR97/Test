@@ -528,6 +528,7 @@ GameObject:
   - component: {fileID: 2970274545311290361}
   - component: {fileID: 1445993549090567966}
   - component: {fileID: 3215263307028824896}
+  - component: {fileID: 8282141592114750582}
   m_Layer: 5
   m_Name: TextMoneyB
   m_TagString: Untagged
@@ -596,6 +597,27 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: 'MoneyA: 300'
+--- !u!95 &8282141592114750582
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3540505968963554874}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 49efba845165c42489034e6169018d7e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &4246170674181173079
 GameObject:
   m_ObjectHideFlags: 0
@@ -827,6 +849,7 @@ GameObject:
   - component: {fileID: 2902620365756693650}
   - component: {fileID: 1080820703890200769}
   - component: {fileID: 4615229592564706083}
+  - component: {fileID: 5789602244400781842}
   m_Layer: 5
   m_Name: TextMoneyC
   m_TagString: Untagged
@@ -895,6 +918,27 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: 'MoneyA: 300'
+--- !u!95 &5789602244400781842
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6294470504187857440}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 49efba845165c42489034e6169018d7e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6382701726441015521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1333,6 +1377,7 @@ GameObject:
   - component: {fileID: 4410568079519280953}
   - component: {fileID: 3537363306966065213}
   - component: {fileID: 1114491699433098043}
+  - component: {fileID: 638422879748781084}
   m_Layer: 5
   m_Name: TextMoneyA
   m_TagString: Untagged
@@ -1401,3 +1446,24 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: 'MoneyA: 300'
+--- !u!95 &638422879748781084
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7322914484221907634}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 49efba845165c42489034e6169018d7e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

@@ -122,17 +122,24 @@ namespace Test
             /// 货币
             /// </summary>
             private Text textMoney;
+            private Animator animator;
 
             public Money(GameObject root)
             {
                 this.root = root;
 
                 textMoney = root.GetComponent<Text>();
+                animator = root.GetComponent<Animator>();
             }
 
             public void SetInfo(E_MoneyType moneyType)
             {
                 textMoney.text = $"{moneyType}: {GameInfoManager.Ins.GetMoneyByType(moneyType)}";
+            }
+
+            public void PlayAnimator()
+            {
+                animator.SetTrigger("Play");
             }
         }
 
@@ -289,6 +296,9 @@ namespace Test
             if (GameInfoManager.Ins.GetMoneyByType(data.MoneyType) < data.Price)
             {
                 tip.SetInfo($"{data.MoneyType}货币不足", E_BuyState.Failure);
+                if (dicMoney.TryGetValue(data.MoneyType, out Money money))
+                    money.PlayAnimator();
+
                 return;
             }
 

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Data\\Unity\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|D:\\Data\\Unity\\Test\\assets\\res\\scripts\\ui\\store\\giftpackstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|d:\\data\\unity\\test\\assets\\res\\scripts\\ui\\store\\giftpackstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\res\\scripts\\ui\\store\\giftpackstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|d:\\data\\unity\\test\\assets\\res\\scripts\\manager\\gameinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|D:\\Data\\Unity\\Test\\assets\\res\\scripts\\manager\\gameinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\res\\scripts\\manager\\gameinfomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Assets\\Res\\Scripts\\Manager\\GameInfoManager.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAkwFsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T07:18:43.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T07:18:43.399Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\Res\\Scripts\\UI\\Store\\GiftPackStore.cs",
               "ToolTip": "D:\\Data\\Unity\\Test\\Assets\\Res\\Scripts\\UI\\Store\\GiftPackStore.cs",
               "RelativeToolTip": "Assets\\Res\\Scripts\\UI\\Store\\GiftPackStore.cs",
-              "ViewState": "AQIAAAIBAAAAAAAAAAAuwDABAAAAAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwGIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T05:52:26.641Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Assets\\Res\\Scripts\\Tools\\UIComponent\\RecycleView\\RecycleViewTest.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAApwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T05:29:23.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T05:29:23.814Z"
             }
           ]
         }

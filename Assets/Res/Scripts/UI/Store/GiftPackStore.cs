@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.U2D;
 using UnityEngine.UI;
 
 namespace Test
@@ -93,12 +94,10 @@ namespace Test
                 textDescription.text = data.Description;
                 textPrice.text = $"价格：{data.Price}{data.MoneyType}";
 
-                Texture2D texture = (Texture2D)AssetDatabase.LoadMainAssetAtPath(data.IconName);
-                if (texture != null)
-                {
-                    Sprite sprite = Sprite.Create(texture, new Rect(0f, 0f, texture.width, texture.height), Vector2.one * 0.5f);
-                    imgIcon.sprite = sprite;
-                }
+                SpriteAtlas spriteAtlas = (SpriteAtlas)AssetDatabase.LoadMainAssetAtPath("Assets/Res/Arts/Icon.spriteatlas");
+
+                if (spriteAtlas != null)
+                    imgIcon.sprite = spriteAtlas.GetSprite(data.IconName);
             }
 
             /// <summary>

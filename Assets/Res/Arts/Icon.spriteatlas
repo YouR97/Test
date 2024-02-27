@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 71dd0f9b3e8e0824fa1658d87870e9ec, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 2132e8c034aa1f24a9eb58fd387f1723: 21300000
+    - c2ae3e81ce67f324d8b18b18a1c68579: 21300000
+    - 5f8639b36c31b594d84d02ef52ca470c: 21300000
+    - 862026b69c2e0ae42954937dcf10f2fe: 21300000
+    - 5b725a7843a65b54fa752947cd82813d: 21300000
+    - 7a1ccf5930486714ab1bbf09523ee81a: 21300000
+    - ac213d1a8b3654d4e9d18f80e2e6cf87: 21300000
+    - 304a177d70907c143aebe77c21e05826: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2132e8c034aa1f24a9eb58fd387f1723, type: 3}
+  - {fileID: 21300000, guid: c2ae3e81ce67f324d8b18b18a1c68579, type: 3}
+  - {fileID: 21300000, guid: 5f8639b36c31b594d84d02ef52ca470c, type: 3}
+  - {fileID: 21300000, guid: 862026b69c2e0ae42954937dcf10f2fe, type: 3}
+  - {fileID: 21300000, guid: 5b725a7843a65b54fa752947cd82813d, type: 3}
+  - {fileID: 21300000, guid: 7a1ccf5930486714ab1bbf09523ee81a, type: 3}
+  - {fileID: 21300000, guid: ac213d1a8b3654d4e9d18f80e2e6cf87, type: 3}
+  - {fileID: 21300000, guid: 304a177d70907c143aebe77c21e05826, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gift_icon_1
+  - gift_icon_4
+  - gift_icon_6
+  - gift_icon_7
+  - gift_icon_5
+  - gift_icon_3
+  - gift_icon_2
+  - gift_icon_8
+  m_RenderDataMap: {}
+  m_Tag: Icon
+  m_IsVariant: 0

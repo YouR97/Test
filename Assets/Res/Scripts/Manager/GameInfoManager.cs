@@ -81,12 +81,16 @@ namespace Test
         /// <returns></returns>
         public void AddMoney(E_MoneyType moneyType, int change)
         {
+            if (change == 0)
+                return;
+
             if (dicMoney.TryGetValue(moneyType, out int count))
             {
-                if (count + change < 0) // 根据需求 货币能否为负值
+                int value = count + change;
+                if (value < 0) // 根据需求 货币能否为负值
                     throw new Exception("错误");
                 else
-                    dicMoney[moneyType] = count + change;
+                    dicMoney[moneyType] = value;
             }
             else
             {
